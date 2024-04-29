@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
+#define wxt bot
 namespace Fread {
 const int SIZE = 1 << 21;
 char buf[SIZE], *S, *T;
